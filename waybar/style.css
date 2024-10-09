@@ -21,6 +21,10 @@
      font-size: 16px;
  }
 
+ #custom-waybar-mpris {
+	color: #fff;
+ }
+
  #custom-appmenu,
  #window,
  #custom-exit,

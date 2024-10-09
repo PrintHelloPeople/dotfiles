@@ -14,10 +14,17 @@
                 "custom/sep",
                 "hyprland/workspaces",
                 "custom/sep",
-                "hyprland/window"
+                "hyprland/window",
+		"custom/sep",
+		"clock",
+		"custom/sep",
+		"custom/waybar-mpris"
+                
         ],
+	"modules-center": [
+	],
         "modules-right": [
-                "cpu",
+		"cpu",
                 "custom/sep",
                 "memory",
                 "custom/sep",
@@ -30,8 +37,6 @@
                 "pulseaudio",
                 "custom/sep",
                 "backlight",
-                "custom/sep",
-                "clock",
                 "custom/sep",
                 "custom/exit"
         ]
